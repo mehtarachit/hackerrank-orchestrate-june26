@@ -1,5 +1,3 @@
-# Multi-Modal Evidence Review System
-...
 # 🚀 HackerRank Orchestrate – June 2026
 
 ## Multi-Modal Evidence Review System
